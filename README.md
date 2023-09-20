@@ -1,1 +1,3 @@
 # Differential-Gene-Expression-Analysis-using-Machine-Learning
+
+This report explores the power of computational methods in understanding gene expression data. By using various algorithms like Random Forest, Genetic Algorithms, PSO with SVM, and XGBoost with SHAP values, I have identified the top 50 crucial genes. Then, I have applied K-Means and Agglomerative Hierarchical Clustering to uncover patterns in gene behavior. I evaluate these clusters using the Silhouette Score to measure their quality. This combination of techniques helps us gain insights into the intricate world of gene expression and its potential impact on biological processes.
